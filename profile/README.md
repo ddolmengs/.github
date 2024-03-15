@@ -3,13 +3,14 @@
 🔗 [ahttyclimbing.com](https://www.ahttyclimbing.com/)
 
 ## 프로젝트 개요
+
 배경: 경상북도 포항시 국우동에 위치한 암벽장 '아띠클라이밍'의 홍보 웹 페이지를 개발한다.
 
 개발 기간: 2023.07 ~ 2023.09
 
 ### 프로젝트 아키텍처
 
-![Web App Reference Architecture (6)](./readme/architecture.png)
+![architecture](https://github.com/ddolmengs/ahtty-readme/assets/101818687/8fa91cd7-0d8f-4090-9a36-2b3a11d3d01f)
 
 ### 주요 기능
 
@@ -27,18 +28,21 @@
 ## 페이지
 
 ### 메인
+
 <p align="center">
-  <img width="720" alt="image" src="./readme/ahtty_main.png" />
+  <img width="1468" alt="ahtty_main" src="https://github.com/ddolmengs/ahtty-readme/assets/101818687/1785c5f4-5afa-42c0-b6da-22f9f09bc990">
 </p>
 
 ### 소개
+
 <p align="center">
-  <img width="720" alt="image" src="./readme/ahtty_about.png" />
+  <img width="1470" alt="ahtty_about" src="https://github.com/ddolmengs/ahtty-readme/assets/101818687/f54ce784-93d8-49d5-bd85-7b7acfeda4d4">
 </p>
 
 ### 요금
+
 <p align="center">
-  <img width="1470" alt="image" src="./readme/ahtty_cost.png" />
+  <img width="1470" alt="ahtty_cost" src="https://github.com/ddolmengs/ahtty-readme/assets/101818687/902eefe7-9b35-4fbb-ac41-e6b09a46622f">
 </p>
 
 <br/>
